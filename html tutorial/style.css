@@ -1,0 +1,65 @@
+/* ID selectors */
+#main-title {
+  color: royalblue;
+  text-align: center;
+  font-size: 2em;
+}
+
+#container {
+  background-color: #f0f0f0;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#gallery {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#skills-list {
+  list-style-type: square;
+  padding-left: 30px;
+}
+
+#contact-btn {
+  background-color: teal;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Class selectors */
+.intro-text {
+  font-style: italic;
+  color: gray;
+}
+
+.section-title {
+  color: darkorange;
+  text-decoration: underline;
+}
+
+.content {
+  font-size: 16px;
+}
+
+.photo {
+  border-radius: 10px;
+  margin: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.skill {
+  color: darkgreen;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: darkslategray;
+}
+marquee {
+  color:darkmagenta;
+}
